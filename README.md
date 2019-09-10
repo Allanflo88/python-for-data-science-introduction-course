@@ -35,4 +35,7 @@
 * pip install jupyter
 * pip install numpy
 * pip install pandas
+
+### Or access online jupyter notebook
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Allanflo88/python-for-data-science-introduction-course.git/master)
   
