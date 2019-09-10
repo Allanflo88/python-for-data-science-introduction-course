@@ -25,7 +25,7 @@
 ### Requirements
 
 * Python 3
-* Jupyter notebook or lab
+* Jupyter
 * Numpy
 * Pandas
 
