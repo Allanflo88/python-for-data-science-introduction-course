@@ -5,8 +5,7 @@
 * Python Basics
   * Variables anda Data types
   * Basic operations
-  * Functions
-  * Comprehensions and lambda
+  * Functions, List Comprehension and lambda
   * Classes
   * Files
   * Modules
