@@ -3,8 +3,7 @@
 ### Agenda
 
 * Python Basics
-  * Variables
-  * Types
+  * Variables anda Data types
   * Basic operations
   * Slicing
   * Functions
