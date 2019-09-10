@@ -22,3 +22,18 @@
   * Files
   * Missing Data
   * Concatenation and Merge
+  
+### Requirements
+
+* Python 3
+* Jupyter notebook or lab
+* Numpy
+* Pandas
+
+### Installation
+
+* Python Download https://www.python.org/downloads/
+* pip install jupyter
+* pip install numpy
+* pip install pandas
+  
