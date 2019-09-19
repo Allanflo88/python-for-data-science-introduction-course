@@ -3,7 +3,7 @@
 ### Agenda
 
 * Python Basics
-  * Variables anda Data types
+  * Variables and Data types
   * Basic operations
   * Functions, List Comprehension and lambda
   * Object Oriented Programming
