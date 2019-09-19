@@ -6,9 +6,7 @@
   * Variables anda Data types
   * Basic operations
   * Functions, List Comprehension and lambda
-  * Classes
-  * Files
-  * Modules
+  * Object Oriented Programming
 * Numpy
   * Lists and matrices
   * Mathematical Operations with Scalars
@@ -34,6 +32,7 @@
 * pip install numpy
 * pip install pandas
 
-### Or access online jupyter notebook
+### Live notebook
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Allanflo88/python-for-data-science-introduction-course.git/master)
   
